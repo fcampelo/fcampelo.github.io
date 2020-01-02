@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/profile_500px.png"
   bio    : "Data Science + Optimisation."
   links:
-    - label: "Aston Website"
+    - label: "Me @Aston University"
       icon: "fas fa-fw fa-link"
       url: "https://research.aston.ac.uk/en/persons/felipe-campelo-franca-pinto"
     - label: "Twitter"
@@ -75,7 +75,7 @@ author:
 
 footer:
   links:
-    - label: "Aston Website"
+    - label: "Me @Aston University"
       icon: "fas fa-fw fa-link"
       url: "https://research.aston.ac.uk/en/persons/felipe-campelo-franca-pinto"
     - label: "Twitter"
