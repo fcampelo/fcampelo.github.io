@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## It starts here
-
 This is my fifth attempt at blogging.
 
 The first and most successful one was a diary that I kept between 2004 and 2009, while I was living in Japan. It was originally intended at providing friends and family back in Brazil with regular updates about my life, in a time before Facebook, WhatsApp and Twitter. It worked, but lost its _raison d'etre_ after I went back to Brazil at the end of my PhD. 
