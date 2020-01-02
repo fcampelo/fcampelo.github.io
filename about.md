@@ -21,7 +21,7 @@ If you want to know more about what I'm doing, please check me on:
   - [Github](github.com/fcampelo/)
   - [Plataforma Lattes](http://lattes.cnpq.br/6799982843395323) (in Portuguese)
 
-Or, for some random bilingual ramblings, try my [Twitter](https://twitter.com/random_campelo) feed.
+Or, for some random bilingual ramblings, try my [Twitter](https://twitter.com/_fcampelo) feed.
 
 ### Contact me
 
