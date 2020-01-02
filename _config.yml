@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Random ramblings from a not-so-mad (data) scientist.
 twitter_username: "_fcampelo"
 github_username: "fcampelo"
+google_analytics: "UA-17267347-2"
 minimal_mistakes_skin: "dark"
 search: true
 
