@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [articles]
+tags: [Personal]
 ---
 This is my fifth attempt at blogging. So what?
 
