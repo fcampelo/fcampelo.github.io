@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I'm a Lecturer in Computer Science at Aston University/UK, where I'm in currently charge of teaching Data Mining and Data Science Programming.
+I'm a Lecturer in Computer Science at Aston University/UK, where I'm currently in charge of teaching Data Mining and Data Science Programming (Python and R - yay!).
 
 ### Some History
 My path to data science is slightly convoluted: after graduating as an Electrical Engineer from UFMG/Brazil (2003), I was awarded a _Monbusho_ scholarship from the Japanese government to pursue my postgraduate studies under the supervision of Prof. Hajime Igarashi at Hokkaido University, Japan. I earned my M.Sc. in Information Science and Technology (2006), and later my Ph.D. in Systems Science and Informatics (2009), working on the development and application of computational intelligence approaches for the optimisation of electromagnetic systems. 
