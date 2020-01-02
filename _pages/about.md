@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 title: About me
 permalink: /about/
 ---
