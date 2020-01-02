@@ -12,8 +12,11 @@ I tried to turn it into a science blog (attempt #2), which I maintained for abou
 The third and fourth attempts were pathetically brief contributions to Brazilian collaborative blogs on science communication. Epic fail and a massive waste of everyone's time.
 
 **So, why try again?**
-Because I want to. I'm always thinking and reading about amazingly interesting stuff related to (data and "non-data") science, and I want to be able to write about it sometimes. It may also give me a reason to practice writing about science for a general audience, which I haven't really done in a long while.
+Because I want to. I'm always thinking and reading about amazingly interesting stuff related to (data and "non-data") science, and I want to be able to write about it sometimes. I quit Facebook years ago, and Twitter is just getting me angry these days, so a personal blog may provide me with a safe(r) haven to deposit my ramblings. It may also give me a reason to practice writing about science for a general audience, which I haven't really done in a long while.
 
 **Why in English?**
 Because I want to. I may eventually start to blog in Portuguese again, but since I now live and work in the UK it felt right. Plus, it gives me a reason to improve my writing. :)
 
+***
+
+Well, that's it for now. Let's see how far this goes - wish me luck! :)
