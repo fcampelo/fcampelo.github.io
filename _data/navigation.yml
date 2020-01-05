@@ -5,5 +5,7 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+#  - title: "Publications"
+#    url: "./_pages/prod_page.html"
   - title: "About"
     url: /about/

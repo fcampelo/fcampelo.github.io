@@ -1,0 +1,47 @@
+---
+    output: html_document
+---
+
+<h1>Felipe Campelo</h1>
+<h2>Aston University</h2>
+<hr>
+
+
+```{r setup, include=FALSE, echo=FALSE, warning=FALSE, error=FALSE}
+lattes.list <- readRDS('./lattes_list.tmp')
+Prod.Years <- lapply(lattes.list, FUN = function(x){unique(x$Year)})
+years <- sort(unique(unlist(Prod.Years)), decreasing = TRUE)
+language <- 'EN'
+```
+```{r, results='asis', echo=FALSE, comment=NA, tidy=FALSE, fig.align='center', fig.width=9}
+cat('<a name="pagetop"></a>\n\n<p align="center">', sep = "")
+for(i in 1:(length(years) - 1)){
+cat("[", years[i], "](#",
+years[i], ") | ",
+sep = "")
+}
+cat("[", years[length(years)], "](#", years[length(years)], ")\n\n", sep = "")
+plot_chart(lattes.list, chart.type = 'rCharts', width = 960, height = 480, language = language, which.fields = c('journal.accepted','journal.published','conference.international','conference.national','book.chapters','books','phd.theses','msc.theses'))
+cat("</p>")
+for (year in years){
+tmplist <- lapply(lattes.list, function(x,year){x[x$Year == year, ]}, year = year)
+cat('<a name="', year, '"></a>\n\n', '## ', year, '\n', sep = "")
+print_accepted(tmplist$`Accepted for Publication`, language = language)
+print_journal_papers(tmplist$`Journal Papers`, language = language)
+print_conferences(tmplist$`Conference Papers`, isIntl = TRUE, language = language)
+print_conferences(tmplist$`Conference Papers`, isIntl = FALSE, language = language)
+print_book_chapters(tmplist$`Book Chapters`, language = language)
+print_books(tmplist$Books, language = language)
+print_phd_theses(tmplist$`PhD Theses`, language = language)
+print_msc_theses(tmplist$`MSc Dissertations`, language = language)
+cat('<p align="right">[Back to top](#pagetop)</p>')
+}
+```
+
+
+<div style="background-color:#eeeeee; width:600px">
+Last updated: `r date()`<br/>
+Created with [ChocoLattes](https://github.com/fcampelo/ChocoLattes) by <a href = "mailto: fcampelo@ufmg.br">Felipe Campelo</a><br/>
+[ORCS Lab](http://orcslab.ppgee.ufmg.br) - Operational Research and Complex Systems Laboratory<br/>
+Universidade Federal de Minas Gerais, Belo horizonte MG, Brazil
+</div>
