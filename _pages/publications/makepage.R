@@ -1,3 +1,5 @@
+library(ChocoLattes)
+
 my.aliases <- list(c("Felipe Campelo",
                      "Felipe Campelo Franca Pinto",
                      "Felipe Campelo F. Pinto",
