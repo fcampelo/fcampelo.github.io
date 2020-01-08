@@ -7,5 +7,6 @@ main:
     url: /tags/
   - title: "Publications"
     url: "./_pages/prod_page.html"
+    target: "new"
   - title: "Sobre mim"
     url: /about/
