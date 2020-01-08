@@ -1,11 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
+  - title: "Categorias"
     url: /categories/
   - title: "Tags"
     url: /tags/
-#  - title: "Publications"
-#    url: "./_pages/prod_page.html"
-  - title: "About"
+  - title: "Publications"
+    url: "./_pages/prod_page.html"
+  - title: "Sobre mim"
     url: /about/

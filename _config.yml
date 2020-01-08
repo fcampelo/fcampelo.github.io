@@ -59,35 +59,41 @@ plugins:
 author:
   name   : "Felipe Campelo"
   avatar : "/assets/images/profile_500px.png"
-  bio    : "Data Science + Optimisation."
+  bio    : "Otimização e Ciência de Dados"
   links:
-    - label: "Me @Aston University"
-      icon: "fas fa-fw fa-link"
-      url: "https://research.aston.ac.uk/en/persons/felipe-campelo-franca-pinto"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_fcampelo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fcampelo"
+    - label: "Aston University Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://research.aston.ac.uk/en/persons/felipe-campelo-franca-pinto"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com.br/citations?hl=en&user=jKGZEXIAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "CV Lattes [PT]"
+      icon: "fas fa-fw fa-link"
+      url: "http://lattes.cnpq.br/6799982843395323"
 
 footer:
   links:
-    - label: "Me @Aston University"
-      icon: "fas fa-fw fa-link"
-      url: "https://research.aston.ac.uk/en/persons/felipe-campelo-franca-pinto"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_fcampelo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fcampelo"
+    - label: "Aston University Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://research.aston.ac.uk/en/persons/felipe-campelo-franca-pinto"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com.br/citations?hl=en&user=jKGZEXIAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "CV Lattes [PT]"
+      icon: "fas fa-fw fa-link"
+      url: "http://lattes.cnpq.br/6799982843395323"
 
 defaults:
   # _posts

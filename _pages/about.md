@@ -3,26 +3,17 @@ layout: single
 title: About me
 permalink: /about/
 ---
+Professor (Lecturer) em Mineração e Ciência de Dados na Aston University/UK. Atualmente responsável pelo ensino de cursos de Data Mining e Data Science Programming (Python & R - yay!).
 
-I'm a Lecturer in Computer Science at Aston University/UK, where I'm currently in charge of teaching Data Mining and Data Science Programming (Python and R - yay!).
+### Bio resumida
+Formado em Engenharia Elétrica ([UFMG](https://ufmg.br/), 2003). Bolsista do governo japonês (_Monbusho_) na [Hokkaido University](https://www.global.hokudai.ac.jp/) entre 2004 e 2009, onde obtive meu mestrado (_M.Sc. Information Science and Technology_, 2006) e doutorado (_Ph.D. Systems Science and Informatics, 2009_), sob orientação do professor [Hajime Igarashi](https://hbd.ist.hokudai.ac.jp/). Meu trabalho no Japão foi principalmente voltado para o desenvolvimento e aplicação de abordagens de inteligência computacional para a otimização de dispositivos e sistemas eletromagnéticos.
 
-### Some History
-My path to data science is slightly convoluted: after graduating as an Electrical Engineer from UFMG/Brazil (2003), I was awarded a _Monbusho_ scholarship from the Japanese government to pursue my postgraduate studies under the supervision of Prof. Hajime Igarashi at Hokkaido University, Japan. I earned my M.Sc. in Information Science and Technology (2006), and later my Ph.D. in Systems Science and Informatics (2009), working on the development and application of computational intelligence approaches for the optimisation of electromagnetic systems. 
+Voltei para a UFMG em 2009 como pesquisador (pós-doc), contratado pelo prof. [Jaime Ramírez](http://lattes.cnpq.br/6690275350395550) como membro do projeto _Desenvolvimento de Softwares para Otimização em Eletromagnetismo Aplicado_, financiado pela CAPES. Em 2010 fui aprovado no concurso do [Departamento de Engenharia Elétrica da UFMG](http://dee.ufmg.br/) como Professor Adjunto em Otimização e Inteligência Computacional. Durante meu tempo na UFMG comecei a me interessar cada vez mais pela área de inferência estatística, e posteriormente modelagem estatíca e análise de dados. 
 
-I went back to Brazil in 2009 as a post-doctoral fellow, and in 2010 I joined UFMG's Department of Electrical Engineering as an Assistant Professor in Optimisation and Computational Intelligence. While at UFMG I started becoming progressively more interested in statistical inference, and then in statistical modelling and data analysis, which eventually brought me to working with the development of solution pipelines that seamlessly integrate data mining, optimisation and multi-criterion decision making for the solution of a variety of problems in science and engineering. That, of course, requires a lot of what is commonly referred to as _Data Science_: understanding a problem domain, investigating and engineering features, devising the most adequate modelling strategy, etc.. 
+Com o tempo esse interesse resultou na minha área atual de pesquisa, na qual trabalho com o desenvolvimento de abordagens integradas de extração e modelagem de dados, otimização e auxílio à tomada de decisão (ou, como alguns preferem chamar, _prescriptive analytics_) para solução de diversos problemas aplicados. Esse trabalho requer diversos aspectos do que usualmente é chamado de Ciência de Dados: compreensão do domínio do problema, investigação e engenharia de atributos, testes comparativos de estratégias de modelagem, etc.
 
-After I joined Aston University in early 2019, I continued to work in this general area, expanding my interests to the analysis of biological signals and sequences, as well as educational data. 
+Em 2019 eu me juntei à Escola de Engenharia e Ciências Aplicadas da [Aston University](http://aston.ac.uk/), onde continuo a trabalhar em áreas relacionadas à ciência de dados, tanto no desenvolvimento de protocolos para a pesquisa experimental com algoritmos, como em aplicações de mineração de dados em uma ampla variedade de áreas.
 
-### More Information
+Se quiser saber mais, é só clicar nos links aí do lado!
 
-If you want to know more about what I'm doing, please check me on:
-  - [Aston Research Explorer](https://research.aston.ac.uk/en/persons/felipe-campelo-franca-pinto)
-  - [Google Scholar](https://scholar.google.com.br/citations?user=jKGZEXIAAAAJ&hl=en)
-  - [Github](github.com/fcampelo/)
-  - [Plataforma Lattes](http://lattes.cnpq.br/6799982843395323) (in Portuguese)
-
-Or, for some random bilingual ramblings, try my [Twitter](https://twitter.com/_fcampelo) feed.
-
-### Contact me
-
-[fcampelo@gmail.com](mailto:fcampelo@gmail.com)
+Contato: [fcampelo@gmail.com](mailto:fcampelo@gmail.com)
